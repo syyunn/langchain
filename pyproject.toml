@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "langchain-monorepo"
+name = "langchain"  # This should be the name of the package
 version = "0.0.1"
-description = "LangChain mono-repo"
+description = "LangChain package description"
 authors = []
 license = "MIT"
 readme = "README.md"
